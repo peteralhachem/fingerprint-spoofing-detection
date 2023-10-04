@@ -1,0 +1,137 @@
+{
+    "models_error_rates": [
+        [
+            0.05935483870967739
+        ],
+        [
+            0.0498924731182796
+        ],
+        [
+            0.047311827956989294
+        ],
+        [
+            0.05978494623655917
+        ],
+        [
+            0.05032258064516126
+        ],
+        [
+            0.049032258064516165
+        ],
+        [
+            0.058064516129032295
+        ],
+        [
+            0.04946236559139783
+        ],
+        [
+            0.04817204301075273
+        ],
+        [
+            0.05591397849462365
+        ],
+        [
+            0.04860215053763439
+        ],
+        [
+            0.04516129032258065
+        ]
+    ],
+    "models_actual_DCFs": [
+        [
+            0.5546311475409836
+        ],
+        [
+            0.4634426229508197
+        ],
+        [
+            0.46125000000000005
+        ],
+        [
+            0.5611885245901639
+        ],
+        [
+            0.47530737704918036
+        ],
+        [
+            0.4715573770491803
+        ],
+        [
+            0.5455737704918033
+        ],
+        [
+            0.46219262295081975
+        ],
+        [
+            0.45313524590163934
+        ],
+        [
+            0.5340163934426229
+        ],
+        [
+            0.4596926229508197
+        ],
+        [
+            0.4178483606557377
+        ]
+    ],
+    "models_min_DCFs": [
+        [
+            0.3320696721311476
+        ],
+        [
+            0.2995901639344262
+        ],
+        [
+            0.29799180327868857
+        ],
+        [
+            0.3280122950819672
+        ],
+        [
+            0.2942827868852459
+        ],
+        [
+            0.3014344262295082
+        ],
+        [
+            0.3136475409836066
+        ],
+        [
+            0.2970901639344262
+        ],
+        [
+            0.2902254098360656
+        ],
+        [
+            0.32735655737704916
+        ],
+        [
+            0.2964549180327869
+        ],
+        [
+            0.29989754098360655
+        ]
+    ],
+    "classifiers": [
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=0.1, k=1.0)",
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=1.0, k=1.0)",
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=10.0, k=1.0)",
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=0.1, k=1.0, 9-PCA)",
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=1.0, k=1.0, 9-PCA)",
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=10.0, k=1.0, 9-PCA)",
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=0.1, k=1.0, 8-PCA)",
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=1.0, k=1.0, 8-PCA)",
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=10.0, k=1.0, 8-PCA)",
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=0.1, k=1.0, 7-PCA)",
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=1.0, k=1.0, 7-PCA)",
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=10.0, k=1.0, 7-PCA)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

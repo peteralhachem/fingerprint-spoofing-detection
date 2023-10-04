@@ -1,0 +1,107 @@
+{
+    "models_error_rates": [
+        [
+            0.05935483870967739
+        ],
+        [
+            0.05935483870967739
+        ],
+        [
+            0.05935483870967739
+        ],
+        [
+            0.07182795698924727
+        ],
+        [
+            0.07182795698924727
+        ],
+        [
+            0.06967741935483873
+        ],
+        [
+            0.06752688172043009
+        ],
+        [
+            0.06752688172043009
+        ],
+        [
+            0.06666666666666665
+        ]
+    ],
+    "models_actual_DCFs": [
+        [
+            0.2680327868852459
+        ],
+        [
+            0.2680327868852459
+        ],
+        [
+            0.2680327868852459
+        ],
+        [
+            0.29366803278688525
+        ],
+        [
+            0.2989754098360656
+        ],
+        [
+            0.29272540983606554
+        ],
+        [
+            0.3023975409836066
+        ],
+        [
+            0.3077049180327869
+        ],
+        [
+            0.30520491803278693
+        ]
+    ],
+    "models_min_DCFs": [
+        [
+            0.25459016393442624
+        ],
+        [
+            0.25459016393442624
+        ],
+        [
+            0.25334016393442627
+        ],
+        [
+            0.27178278688524593
+        ],
+        [
+            0.27178278688524593
+        ],
+        [
+            0.2705327868852459
+        ],
+        [
+            0.2814959016393443
+        ],
+        [
+            0.28024590163934426
+        ],
+        [
+            0.28024590163934426
+        ]
+    ],
+    "classifiers": [
+        "GMM classifier (TC: #1 - FC: #4) - with min eigenvalues 0.010000 - score calibration (pi=0.050000)",
+        "GMM classifier (TC: #1 - FC: #4) - with min eigenvalues 0.010000 - score calibration (pi=0.090909)",
+        "GMM classifier (TC: #1 - FC: #4) - with min eigenvalues 0.010000 - score calibration (pi=0.200000)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 8-PCA) with score calibration (pi=0.050000)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 8-PCA) with score calibration (pi=0.090909)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 8-PCA) with score calibration (pi=0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000) with score calibration (pi=0.050000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000) with score calibration (pi=0.090909)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000) with score calibration (pi=0.200000)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

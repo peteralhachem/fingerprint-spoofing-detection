@@ -1,0 +1,87 @@
+{
+    "models_error_rates": [
+        [
+            0.040628245067497404
+        ],
+        [
+            0.04517133956386288
+        ],
+        [
+            0.04478193146417442
+        ],
+        [
+            0.05166147455867087
+        ],
+        [
+            0.05153167185877461
+        ],
+        [
+            0.05166147455867087
+        ],
+        [
+            0.056593977154724806
+        ]
+    ],
+    "models_actual_DCFs": [
+        [
+            0.2346945701357466
+        ],
+        [
+            0.24780920060331824
+        ],
+        [
+            0.24949660633484166
+        ],
+        [
+            0.22017533936651584
+        ],
+        [
+            0.21975867269984917
+        ],
+        [
+            0.22017533936651584
+        ],
+        [
+            0.2448208898944193
+        ]
+    ],
+    "models_min_DCFs": [
+        [
+            0.2183521870286576
+        ],
+        [
+            0.2397680995475113
+        ],
+        [
+            0.23726809954751132
+        ],
+        [
+            0.21763386123680242
+        ],
+        [
+            0.21574849170437407
+        ],
+        [
+            0.21763386123680242
+        ],
+        [
+            0.2371738310708899
+        ]
+    ],
+    "classifiers": [
+        "GMM classifier (TC: #1 - FC: #4), 8-PCA - with min eigenvalues 0.010000 - score calibration (pi=0.200000)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 6-PCA) - class rebalancing (pi_1 = 0.500000) with score calibration (pi=0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000) with score calibration (pi=0.200000)",
+        "Fusion: GMM classifier (TC: #1 - FC: #4), 8-PCA - with min eigenvalues 0.010000, Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 6-PCA) - class rebalancing (pi_1 = 0.500000), Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Fusion: GMM classifier (TC: #1 - FC: #4), 8-PCA - with min eigenvalues 0.010000, Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 6-PCA) - class rebalancing (pi_1 = 0.500000)",
+        "Fusion: GMM classifier (TC: #1 - FC: #4), 8-PCA - with min eigenvalues 0.010000, Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Fusion: Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 6-PCA) - class rebalancing (pi_1 = 0.500000), Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

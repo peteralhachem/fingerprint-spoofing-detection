@@ -1,0 +1,33 @@
+{
+    "models_min_DCFs": [
+        [
+            0.30801229508196726
+        ],
+        [
+            0.3589754098360656
+        ],
+        [
+            0.32112704918032786
+        ],
+        [
+            0.2961885245901639
+        ],
+        [
+            0.3023770491803278
+        ]
+    ],
+    "classifiers": [
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 6-PCA)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 6-PCA) - class rebalancing (pi_1 = 0.050000)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 6-PCA) - class rebalancing (pi_1 = 0.090909)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 6-PCA) - class rebalancing (pi_1 = 0.200000)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 6-PCA) - class rebalancing (pi_1 = 0.500000)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

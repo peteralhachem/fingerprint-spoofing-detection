@@ -1,0 +1,117 @@
+{
+    "models_error_rates": [
+        [
+            0.041926272066458936
+        ],
+        [
+            0.043094496365524426
+        ],
+        [
+            0.0403686396677051
+        ],
+        [
+            0.039070612668743565
+        ],
+        [
+            0.03997923156801664
+        ],
+        [
+            0.037902388369678075
+        ],
+        [
+            0.0403686396677051
+        ],
+        [
+            0.040628245067497404
+        ],
+        [
+            0.04088785046728971
+        ],
+        [
+            0.04439252336448596
+        ]
+    ],
+    "models_actual_DCFs": [
+        [
+            0.37985671191553544
+        ],
+        [
+            0.4056372549019608
+        ],
+        [
+            0.37338800904977376
+        ],
+        [
+            0.36040912518853696
+        ],
+        [
+            0.37213800904977373
+        ],
+        [
+            0.33462858220211167
+        ],
+        [
+            0.3454826546003017
+        ],
+        [
+            0.34337858220211165
+        ],
+        [
+            0.3427432126696833
+        ],
+        [
+            0.38042986425339365
+        ]
+    ],
+    "models_min_DCFs": [
+        [
+            0.26240384615384615
+        ],
+        [
+            0.2591949472096531
+        ],
+        [
+            0.25901772247360483
+        ],
+        [
+            0.25308069381598797
+        ],
+        [
+            0.24454939668174963
+        ],
+        [
+            0.25212292609351433
+        ],
+        [
+            0.25687217194570133
+        ],
+        [
+            0.2572473604826546
+        ],
+        [
+            0.26297699849170436
+        ],
+        [
+            0.269643665158371
+        ]
+    ],
+    "classifiers": [
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 9-PCA)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 8-PCA)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 7-PCA)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 6-PCA)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 9-PCA)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 8-PCA)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 7-PCA)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 6-PCA)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

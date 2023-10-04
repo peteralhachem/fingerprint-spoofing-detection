@@ -1,0 +1,101 @@
+{
+    "models_min_DCFs": [
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.47899590163934425
+        ],
+        [
+            0.48149590163934425
+        ],
+        [
+            0.478688524590164
+        ],
+        [
+            0.5295901639344263
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.48149590163934425
+        ],
+        [
+            0.4821311475409836
+        ],
+        [
+            0.5023565573770492
+        ],
+        [
+            0.5454918032786885
+        ],
+        [
+            0.5679713114754099
+        ]
+    ],
+    "classifiers": [
+        "Binary Logistic Regression Classifier (\u03bb=0)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-08)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-07)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1)",
+        "Binary Logistic Regression Classifier (\u03bb=1.0)",
+        "Binary Logistic Regression Classifier (\u03bb=10.0)",
+        "Binary Logistic Regression Classifier (\u03bb=0, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-08, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-07, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=1.0, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=10.0, Z-normalization)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

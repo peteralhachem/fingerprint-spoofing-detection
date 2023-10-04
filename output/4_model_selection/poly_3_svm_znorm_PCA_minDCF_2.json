@@ -1,0 +1,167 @@
+{
+    "models_error_rates": [
+        [
+            0.34408602150537637
+        ],
+        [
+            0.34408602150537637
+        ],
+        [
+            0.053333333333333344
+        ],
+        [
+            0.04946236559139783
+        ],
+        [
+            0.05720430107526886
+        ],
+        [
+            0.34408602150537637
+        ],
+        [
+            0.34408602150537637
+        ],
+        [
+            0.05419354838709678
+        ],
+        [
+            0.052043010752688135
+        ],
+        [
+            0.05419354838709678
+        ],
+        [
+            0.34408602150537637
+        ],
+        [
+            0.34408602150537637
+        ],
+        [
+            0.055053763440860215
+        ],
+        [
+            0.05419354838709678
+        ],
+        [
+            0.05290322580645157
+        ]
+    ],
+    "models_actual_DCFs": [
+        [
+            1.0
+        ],
+        [
+            1.0
+        ],
+        [
+            0.41506147540983607
+        ],
+        [
+            0.41973360655737707
+        ],
+        [
+            0.5377663934426229
+        ],
+        [
+            1.0
+        ],
+        [
+            1.0
+        ],
+        [
+            0.4069467213114754
+        ],
+        [
+            0.4325409836065574
+        ],
+        [
+            0.5130942622950819
+        ],
+        [
+            1.0
+        ],
+        [
+            1.0
+        ],
+        [
+            0.4147540983606557
+        ],
+        [
+            0.44940573770491804
+        ],
+        [
+            0.5093442622950819
+        ]
+    ],
+    "models_min_DCFs": [
+        [
+            1.0
+        ],
+        [
+            1.0
+        ],
+        [
+            0.3089344262295082
+        ],
+        [
+            0.31112704918032785
+        ],
+        [
+            0.33549180327868855
+        ],
+        [
+            1.0
+        ],
+        [
+            1.0
+        ],
+        [
+            0.3145491803278688
+        ],
+        [
+            0.29801229508196725
+        ],
+        [
+            0.3542622950819672
+        ],
+        [
+            1.0
+        ],
+        [
+            1.0
+        ],
+        [
+            0.3301844262295082
+        ],
+        [
+            0.31706967213114756
+        ],
+        [
+            0.33645491803278693
+        ]
+    ],
+    "classifiers": [
+        "Poly (d=3, c=1.0) Support Vector Machine Classifier (c=0, k=1.0, Z-norm, 8-PCA)",
+        "Poly (d=3, c=1.0) Support Vector Machine Classifier (c=1e-05, k=1.0, Z-norm, 8-PCA)",
+        "Poly (d=3, c=1.0) Support Vector Machine Classifier (c=0.0001, k=1.0, Z-norm, 8-PCA)",
+        "Poly (d=3, c=1.0) Support Vector Machine Classifier (c=0.001, k=1.0, Z-norm, 8-PCA)",
+        "Poly (d=3, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 8-PCA)",
+        "Poly (d=3, c=1.0) Support Vector Machine Classifier (c=0, k=1.0, Z-norm, 7-PCA)",
+        "Poly (d=3, c=1.0) Support Vector Machine Classifier (c=1e-05, k=1.0, Z-norm, 7-PCA)",
+        "Poly (d=3, c=1.0) Support Vector Machine Classifier (c=0.0001, k=1.0, Z-norm, 7-PCA)",
+        "Poly (d=3, c=1.0) Support Vector Machine Classifier (c=0.001, k=1.0, Z-norm, 7-PCA)",
+        "Poly (d=3, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 7-PCA)",
+        "Poly (d=3, c=1.0) Support Vector Machine Classifier (c=0, k=1.0, Z-norm, 6-PCA)",
+        "Poly (d=3, c=1.0) Support Vector Machine Classifier (c=1e-05, k=1.0, Z-norm, 6-PCA)",
+        "Poly (d=3, c=1.0) Support Vector Machine Classifier (c=0.0001, k=1.0, Z-norm, 6-PCA)",
+        "Poly (d=3, c=1.0) Support Vector Machine Classifier (c=0.001, k=1.0, Z-norm, 6-PCA)",
+        "Poly (d=3, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 6-PCA)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

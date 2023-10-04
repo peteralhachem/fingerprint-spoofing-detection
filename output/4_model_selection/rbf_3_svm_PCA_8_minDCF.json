@@ -1,0 +1,57 @@
+{
+    "models_error_rates": [
+        [
+            0.04946236559139783
+        ],
+        [
+            0.04817204301075273
+        ],
+        [
+            0.05419354838709678
+        ],
+        [
+            0.06408602150537634
+        ]
+    ],
+    "models_actual_DCFs": [
+        [
+            0.46219262295081975
+        ],
+        [
+            0.45313524590163934
+        ],
+        [
+            0.5343237704918034
+        ],
+        [
+            0.6161475409836065
+        ]
+    ],
+    "models_min_DCFs": [
+        [
+            0.2970901639344262
+        ],
+        [
+            0.2902254098360656
+        ],
+        [
+            0.3149385245901639
+        ],
+        [
+            0.3864139344262295
+        ]
+    ],
+    "classifiers": [
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=1.0, k=1.0, 8-PCA)",
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=10.0, k=1.0, 8-PCA)",
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=100.0, k=1.0, 8-PCA)",
+        "RBF (gamma=0.001) Support Vector Machine Classifier (c=1000.0, k=1.0, 8-PCA)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

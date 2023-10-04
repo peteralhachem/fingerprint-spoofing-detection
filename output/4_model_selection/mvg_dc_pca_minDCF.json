@@ -1,0 +1,41 @@
+{
+    "models_min_DCFs": [
+        [
+            0.4716803278688525
+        ],
+        [
+            0.36985655737704914
+        ],
+        [
+            0.36862704918032785
+        ],
+        [
+            0.3598975409836066
+        ],
+        [
+            0.3614549180327869
+        ],
+        [
+            0.3598975409836066
+        ],
+        [
+            0.3714549180327869
+        ]
+    ],
+    "classifiers": [
+        "Naive Bayes Binary Gaussian Classifier",
+        "Naive Bayes Binary Gaussian Classifier (10-PCA)",
+        "Naive Bayes Binary Gaussian Classifier (9-PCA)",
+        "Naive Bayes Binary Gaussian Classifier (8-PCA)",
+        "Naive Bayes Binary Gaussian Classifier (7-PCA)",
+        "Naive Bayes Binary Gaussian Classifier (6-PCA)",
+        "Naive Bayes Binary Gaussian Classifier (5-PCA)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

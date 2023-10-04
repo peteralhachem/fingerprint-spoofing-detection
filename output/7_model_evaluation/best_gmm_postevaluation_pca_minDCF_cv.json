@@ -1,0 +1,45 @@
+{
+    "models_min_DCFs": [
+        [
+            0.26239754098360657
+        ],
+        [
+            0.29081967213114757
+        ],
+        [
+            0.2783606557377049
+        ],
+        [
+            0.30368852459016393
+        ],
+        [
+            0.2670901639344262
+        ],
+        [
+            0.2670901639344262
+        ],
+        [
+            0.2723975409836066
+        ],
+        [
+            0.27178278688524593
+        ]
+    ],
+    "classifiers": [
+        "GMM classifier (TC: #1 - FC: #4), 9-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 - FC: #8), 9-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #2 - FC: #4), 9-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #2 - FC: #8), 9-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 - FC: #4), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 - FC: #8), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #2 - FC: #4), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #2 - FC: #8), 8-PCA - with min eigenvalues 0.010000"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

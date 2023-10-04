@@ -1,0 +1,41 @@
+{
+    "models_min_DCFs": [
+        [
+            0.3314549180327869
+        ],
+        [
+            0.3314549180327869
+        ],
+        [
+            0.3295696721311475
+        ],
+        [
+            0.33331967213114755
+        ],
+        [
+            0.3411270491803279
+        ],
+        [
+            0.3355122950819672
+        ],
+        [
+            0.35930327868852463
+        ]
+    ],
+    "classifiers": [
+        "Binary Gaussian Classifier",
+        "Binary Gaussian Classifier (10-PCA)",
+        "Binary Gaussian Classifier (9-PCA)",
+        "Binary Gaussian Classifier (8-PCA)",
+        "Binary Gaussian Classifier (7-PCA)",
+        "Binary Gaussian Classifier (6-PCA)",
+        "Binary Gaussian Classifier (5-PCA)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

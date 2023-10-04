@@ -1,0 +1,47 @@
+{
+    "models_error_rates": [
+        [
+            0.05419354838709678
+        ],
+        [
+            0.044731182795698876
+        ],
+        [
+            0.06322580645161291
+        ]
+    ],
+    "models_actual_DCFs": [
+        [
+            0.25834016393442627
+        ],
+        [
+            0.39006147540983604
+        ],
+        [
+            0.3058196721311476
+        ]
+    ],
+    "models_min_DCFs": [
+        [
+            0.25209016393442624
+        ],
+        [
+            0.2680327868852459
+        ],
+        [
+            0.27524590163934426
+        ]
+    ],
+    "classifiers": [
+        "GMM classifier (TC: #1 - FC: #4) - with min eigenvalues 0.010000",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 8-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "models_min_DCFs": [
+        [
+            0.31399590163934427
+        ],
+        [
+            0.31086065573770494
+        ],
+        [
+            0.31366803278688526
+        ],
+        [
+            0.31649590163934427
+        ],
+        [
+            0.31555327868852456
+        ],
+        [
+            0.3071106557377049
+        ],
+        [
+            0.30616803278688526
+        ],
+        [
+            0.31456967213114756
+        ],
+        [
+            0.3261065573770492
+        ],
+        [
+            0.30772540983606556
+        ],
+        [
+            0.30772540983606556
+        ],
+        [
+            0.30772540983606556
+        ],
+        [
+            0.30772540983606556
+        ],
+        [
+            0.2983606557377049
+        ],
+        [
+            0.29430327868852457
+        ],
+        [
+            0.2983401639344262
+        ],
+        [
+            0.3264549180327869
+        ],
+        [
+            0.37428278688524586
+        ]
+    ],
+    "classifiers": [
+        "Binary Logistic Regression Classifier (\u03bb=0, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1.0, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=10.0, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0, Z-normalization, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, Z-normalization, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, Z-normalization, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-normalization, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, Z-normalization, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, Z-normalization, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, Z-normalization, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1.0, Z-normalization, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=10.0, Z-normalization, 2D feature exp.)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

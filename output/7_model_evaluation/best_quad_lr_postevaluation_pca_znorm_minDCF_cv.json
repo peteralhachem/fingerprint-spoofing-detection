@@ -1,0 +1,53 @@
+{
+    "models_min_DCFs": [
+        [
+            0.3080737704918033
+        ],
+        [
+            0.31709016393442624
+        ],
+        [
+            0.3043032786885246
+        ],
+        [
+            0.2983811475409836
+        ],
+        [
+            0.27524590163934426
+        ],
+        [
+            0.2992827868852459
+        ],
+        [
+            0.3151844262295082
+        ],
+        [
+            0.30959016393442623
+        ],
+        [
+            0.28678278688524594
+        ],
+        [
+            0.30803278688524593
+        ]
+    ],
+    "classifiers": [
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 9-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 8-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 7-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-norm, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-norm, 9-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-norm, 8-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-norm, 7-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-norm, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

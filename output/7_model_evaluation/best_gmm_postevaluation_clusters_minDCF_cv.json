@@ -1,0 +1,113 @@
+{
+    "models_min_DCFs": [
+        [
+            0.3314549180327869
+        ],
+        [
+            0.2830327868852459
+        ],
+        [
+            0.25209016393442624
+        ],
+        [
+            0.2633401639344263
+        ],
+        [
+            0.3058196721311476
+        ],
+        [
+            0.33331967213114755
+        ],
+        [
+            0.27961065573770494
+        ],
+        [
+            0.2602049180327869
+        ],
+        [
+            0.2646311475409836
+        ],
+        [
+            0.30362704918032785
+        ],
+        [
+            0.33834016393442623
+        ],
+        [
+            0.2889344262295082
+        ],
+        [
+            0.2661680327868853
+        ],
+        [
+            0.28081967213114756
+        ],
+        [
+            0.3155327868852459
+        ],
+        [
+            0.3689549180327869
+        ],
+        [
+            0.3264549180327869
+        ],
+        [
+            0.3096311475409836
+        ],
+        [
+            0.32426229508196724
+        ],
+        [
+            0.3546106557377049
+        ],
+        [
+            0.44112704918032786
+        ],
+        [
+            0.41676229508196727
+        ],
+        [
+            0.3636475409836066
+        ],
+        [
+            0.35831967213114757
+        ],
+        [
+            0.3885860655737705
+        ]
+    ],
+    "classifiers": [
+        "GMM classifier (TC: #1 - FC: #1) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 - FC: #2) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 - FC: #4) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 - FC: #8) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 - FC: #16) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #2 - FC: #1) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #2 - FC: #2) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #2 - FC: #4) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #2 - FC: #8) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #2 - FC: #16) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #4 - FC: #1) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #4 - FC: #2) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #4 - FC: #4) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #4 - FC: #8) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #4 - FC: #16) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #8 - FC: #1) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #8 - FC: #2) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #8 - FC: #4) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #8 - FC: #8) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #8 - FC: #16) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #16 - FC: #1) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #16 - FC: #2) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #16 - FC: #4) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #16 - FC: #8) - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #16 - FC: #16) - with min eigenvalues 0.010000"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

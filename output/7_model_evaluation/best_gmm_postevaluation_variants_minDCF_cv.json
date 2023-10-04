@@ -1,0 +1,77 @@
+{
+    "models_min_DCFs": [
+        [
+            0.2670901639344262
+        ],
+        [
+            0.27959016393442626
+        ],
+        [
+            0.25989754098360657
+        ],
+        [
+            0.27430327868852455
+        ],
+        [
+            0.2670901639344262
+        ],
+        [
+            0.27959016393442626
+        ],
+        [
+            0.25989754098360657
+        ],
+        [
+            0.27430327868852455
+        ],
+        [
+            0.26959016393442625
+        ],
+        [
+            0.2748975409836065
+        ],
+        [
+            0.2689549180327869
+        ],
+        [
+            0.2792622950819672
+        ],
+        [
+            0.26959016393442625
+        ],
+        [
+            0.2748975409836065
+        ],
+        [
+            0.2689549180327869
+        ],
+        [
+            0.2792622950819672
+        ]
+    ],
+    "classifiers": [
+        "GMM classifier (TC: #1 - FC: #4), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 - FC: #4 (T)), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 - FC: #4 (D)), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 - FC: #4 (DT)), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 (T) - FC: #4), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 (T) - FC: #4 (T)), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 (T) - FC: #4 (D)), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 (T) - FC: #4 (DT)), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 (D) - FC: #4), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 (D) - FC: #4 (T)), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 (D) - FC: #4 (D)), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 (D) - FC: #4 (DT)), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 (DT) - FC: #4), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 (DT) - FC: #4 (T)), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 (DT) - FC: #4 (D)), 8-PCA - with min eigenvalues 0.010000",
+        "GMM classifier (TC: #1 (DT) - FC: #4 (DT)), 8-PCA - with min eigenvalues 0.010000"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

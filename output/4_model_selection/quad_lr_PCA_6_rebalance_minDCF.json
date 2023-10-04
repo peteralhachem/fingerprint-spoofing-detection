@@ -1,0 +1,67 @@
+{
+    "models_error_rates": [
+        [
+            0.06150537634408604
+        ],
+        [
+            0.06150537634408604
+        ],
+        [
+            0.06279569892473114
+        ],
+        [
+            0.06322580645161291
+        ],
+        [
+            0.06322580645161291
+        ]
+    ],
+    "models_actual_DCFs": [
+        [
+            0.2902049180327869
+        ],
+        [
+            0.2902049180327869
+        ],
+        [
+            0.2992622950819672
+        ],
+        [
+            0.3058196721311476
+        ],
+        [
+            0.3058196721311476
+        ]
+    ],
+    "models_min_DCFs": [
+        [
+            0.27647540983606556
+        ],
+        [
+            0.28430327868852456
+        ],
+        [
+            0.2799180327868852
+        ],
+        [
+            0.27524590163934426
+        ],
+        [
+            0.27866803278688523
+        ]
+    ],
+    "classifiers": [
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.050000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.090909)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.500000)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

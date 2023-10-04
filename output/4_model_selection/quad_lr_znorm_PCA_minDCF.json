@@ -1,0 +1,997 @@
+{
+    "models_error_rates": [
+        [
+            0.06666666666666665
+        ],
+        [
+            0.06795698924731186
+        ],
+        [
+            0.06752688172043009
+        ],
+        [
+            0.06666666666666665
+        ],
+        [
+            0.06795698924731186
+        ],
+        [
+            0.06666666666666665
+        ],
+        [
+            0.06838709677419352
+        ],
+        [
+            0.06494623655913978
+        ],
+        [
+            0.06494623655913978
+        ],
+        [
+            0.06451612903225812
+        ],
+        [
+            0.06537634408602155
+        ],
+        [
+            0.06838709677419352
+        ],
+        [
+            0.08989247311827953
+        ],
+        [
+            0.1858064516129032
+        ],
+        [
+            0.06494623655913978
+        ],
+        [
+            0.06537634408602155
+        ],
+        [
+            0.06709677419354843
+        ],
+        [
+            0.06537634408602155
+        ],
+        [
+            0.06580645161290322
+        ],
+        [
+            0.06451612903225812
+        ],
+        [
+            0.06709677419354843
+        ],
+        [
+            0.06795698924731186
+        ],
+        [
+            0.06795698924731186
+        ],
+        [
+            0.06838709677419352
+        ],
+        [
+            0.06967741935483873
+        ],
+        [
+            0.07354838709677425
+        ],
+        [
+            0.09118279569892473
+        ],
+        [
+            0.18795698924731186
+        ],
+        [
+            0.06752688172043009
+        ],
+        [
+            0.06666666666666665
+        ],
+        [
+            0.06709677419354843
+        ],
+        [
+            0.06666666666666665
+        ],
+        [
+            0.06752688172043009
+        ],
+        [
+            0.06752688172043009
+        ],
+        [
+            0.06752688172043009
+        ],
+        [
+            0.06623655913978499
+        ],
+        [
+            0.06623655913978499
+        ],
+        [
+            0.06623655913978499
+        ],
+        [
+            0.06666666666666665
+        ],
+        [
+            0.06967741935483873
+        ],
+        [
+            0.08860215053763443
+        ],
+        [
+            0.18709677419354842
+        ],
+        [
+            0.06795698924731186
+        ],
+        [
+            0.06494623655913978
+        ],
+        [
+            0.06838709677419352
+        ],
+        [
+            0.06537634408602155
+        ],
+        [
+            0.062365591397849474
+        ],
+        [
+            0.06580645161290322
+        ],
+        [
+            0.07053763440860217
+        ],
+        [
+            0.06752688172043009
+        ],
+        [
+            0.06752688172043009
+        ],
+        [
+            0.06752688172043009
+        ],
+        [
+            0.06752688172043009
+        ],
+        [
+            0.0701075268817204
+        ],
+        [
+            0.08946236559139786
+        ],
+        [
+            0.18838709677419352
+        ],
+        [
+            0.06150537634408604
+        ],
+        [
+            0.062365591397849474
+        ],
+        [
+            0.06150537634408604
+        ],
+        [
+            0.06150537634408604
+        ],
+        [
+            0.062365591397849474
+        ],
+        [
+            0.06322580645161291
+        ],
+        [
+            0.0701075268817204
+        ],
+        [
+            0.0713978494623656
+        ],
+        [
+            0.0713978494623656
+        ],
+        [
+            0.0713978494623656
+        ],
+        [
+            0.07096774193548383
+        ],
+        [
+            0.07440860215053768
+        ],
+        [
+            0.09505376344086025
+        ],
+        [
+            0.18838709677419352
+        ],
+        [
+            0.06666666666666665
+        ],
+        [
+            0.06709677419354843
+        ],
+        [
+            0.06752688172043009
+        ],
+        [
+            0.06623655913978499
+        ],
+        [
+            0.06666666666666665
+        ],
+        [
+            0.07096774193548383
+        ],
+        [
+            0.07655913978494622
+        ],
+        [
+            0.07096774193548383
+        ],
+        [
+            0.07096774193548383
+        ],
+        [
+            0.07096774193548383
+        ],
+        [
+            0.0713978494623656
+        ],
+        [
+            0.07440860215053768
+        ],
+        [
+            0.09548387096774191
+        ],
+        [
+            0.1913978494623656
+        ],
+        [
+            0.08172043010752683
+        ],
+        [
+            0.08129032258064517
+        ],
+        [
+            0.08172043010752683
+        ],
+        [
+            0.08172043010752683
+        ],
+        [
+            0.08172043010752683
+        ],
+        [
+            0.0821505376344086
+        ],
+        [
+            0.08731182795698922
+        ],
+        [
+            0.07440860215053768
+        ],
+        [
+            0.07440860215053768
+        ],
+        [
+            0.07440860215053768
+        ],
+        [
+            0.07483870967741935
+        ],
+        [
+            0.07913978494623652
+        ],
+        [
+            0.09892473118279566
+        ],
+        [
+            0.20602150537634412
+        ]
+    ],
+    "models_actual_DCFs": [
+        [
+            0.34766393442622956
+        ],
+        [
+            0.36202868852459014
+        ],
+        [
+            0.3554713114754099
+        ],
+        [
+            0.34766393442622956
+        ],
+        [
+            0.35672131147540986
+        ],
+        [
+            0.35827868852459016
+        ],
+        [
+            0.32612704918032787
+        ],
+        [
+            0.33735655737704917
+        ],
+        [
+            0.33735655737704917
+        ],
+        [
+            0.3307991803278688
+        ],
+        [
+            0.32799180327868854
+        ],
+        [
+            0.3155122950819672
+        ],
+        [
+            0.3249385245901639
+        ],
+        [
+            0.5453073770491803
+        ],
+        [
+            0.33735655737704917
+        ],
+        [
+            0.3545286885245902
+        ],
+        [
+            0.36483606557377046
+        ],
+        [
+            0.3545286885245902
+        ],
+        [
+            0.3504713114754099
+        ],
+        [
+            0.3361065573770492
+        ],
+        [
+            0.3064549180327869
+        ],
+        [
+            0.31426229508196724
+        ],
+        [
+            0.31426229508196724
+        ],
+        [
+            0.3155122950819672
+        ],
+        [
+            0.31926229508196724
+        ],
+        [
+            0.31989754098360657
+        ],
+        [
+            0.3339959016393443
+        ],
+        [
+            0.5568647540983606
+        ],
+        [
+            0.33954918032786885
+        ],
+        [
+            0.3423565573770492
+        ],
+        [
+            0.3382991803278689
+        ],
+        [
+            0.33704918032786885
+        ],
+        [
+            0.33954918032786885
+        ],
+        [
+            0.3448565573770492
+        ],
+        [
+            0.31301229508196726
+        ],
+        [
+            0.3039549180327869
+        ],
+        [
+            0.3039549180327869
+        ],
+        [
+            0.3039549180327869
+        ],
+        [
+            0.30520491803278693
+        ],
+        [
+            0.2980327868852459
+        ],
+        [
+            0.3264959016393443
+        ],
+        [
+            0.5543647540983606
+        ],
+        [
+            0.3301844262295082
+        ],
+        [
+            0.3002049180327869
+        ],
+        [
+            0.3155122950819672
+        ],
+        [
+            0.31737704918032783
+        ],
+        [
+            0.29270491803278686
+        ],
+        [
+            0.31862704918032786
+        ],
+        [
+            0.3164549180327869
+        ],
+        [
+            0.2970901639344262
+        ],
+        [
+            0.2970901639344262
+        ],
+        [
+            0.2970901639344262
+        ],
+        [
+            0.2970901639344262
+        ],
+        [
+            0.2992827868852459
+        ],
+        [
+            0.3289959016393443
+        ],
+        [
+            0.5581147540983606
+        ],
+        [
+            0.2955122950819672
+        ],
+        [
+            0.29801229508196725
+        ],
+        [
+            0.2902049180327869
+        ],
+        [
+            0.2902049180327869
+        ],
+        [
+            0.29801229508196725
+        ],
+        [
+            0.28459016393442627
+        ],
+        [
+            0.30989754098360656
+        ],
+        [
+            0.31895491803278686
+        ],
+        [
+            0.31895491803278686
+        ],
+        [
+            0.31895491803278686
+        ],
+        [
+            0.31239754098360656
+        ],
+        [
+            0.31709016393442624
+        ],
+        [
+            0.34524590163934427
+        ],
+        [
+            0.5581147540983606
+        ],
+        [
+            0.29989754098360655
+        ],
+        [
+            0.3064549180327869
+        ],
+        [
+            0.3077049180327869
+        ],
+        [
+            0.3039549180327869
+        ],
+        [
+            0.29989754098360655
+        ],
+        [
+            0.31239754098360656
+        ],
+        [
+            0.3233401639344262
+        ],
+        [
+            0.3230122950819672
+        ],
+        [
+            0.3230122950819672
+        ],
+        [
+            0.3230122950819672
+        ],
+        [
+            0.32426229508196724
+        ],
+        [
+            0.32239754098360657
+        ],
+        [
+            0.3624180327868852
+        ],
+        [
+            0.5668647540983606
+        ],
+        [
+            0.3914139344262295
+        ],
+        [
+            0.39016393442622954
+        ],
+        [
+            0.3914139344262295
+        ],
+        [
+            0.3914139344262295
+        ],
+        [
+            0.3914139344262295
+        ],
+        [
+            0.38204918032786883
+        ],
+        [
+            0.39704918032786884
+        ],
+        [
+            0.35424180327868854
+        ],
+        [
+            0.35424180327868854
+        ],
+        [
+            0.35424180327868854
+        ],
+        [
+            0.35549180327868857
+        ],
+        [
+            0.3467622950819672
+        ],
+        [
+            0.35649590163934425
+        ],
+        [
+            0.6093647540983606
+        ]
+    ],
+    "models_min_DCFs": [
+        [
+            0.31399590163934427
+        ],
+        [
+            0.31086065573770494
+        ],
+        [
+            0.31366803278688526
+        ],
+        [
+            0.31649590163934427
+        ],
+        [
+            0.31555327868852456
+        ],
+        [
+            0.3071106557377049
+        ],
+        [
+            0.30616803278688526
+        ],
+        [
+            0.30772540983606556
+        ],
+        [
+            0.30772540983606556
+        ],
+        [
+            0.30772540983606556
+        ],
+        [
+            0.30772540983606556
+        ],
+        [
+            0.2983606557377049
+        ],
+        [
+            0.29430327868852457
+        ],
+        [
+            0.2983401639344262
+        ],
+        [
+            0.3267622950819672
+        ],
+        [
+            0.3236475409836066
+        ],
+        [
+            0.31459016393442624
+        ],
+        [
+            0.3239959016393443
+        ],
+        [
+            0.32895491803278687
+        ],
+        [
+            0.3196106557377049
+        ],
+        [
+            0.3064549180327869
+        ],
+        [
+            0.31426229508196724
+        ],
+        [
+            0.31426229508196724
+        ],
+        [
+            0.31426229508196724
+        ],
+        [
+            0.31426229508196724
+        ],
+        [
+            0.30676229508196723
+        ],
+        [
+            0.3027049180327869
+        ],
+        [
+            0.3021106557377049
+        ],
+        [
+            0.30616803278688526
+        ],
+        [
+            0.31086065573770494
+        ],
+        [
+            0.32368852459016395
+        ],
+        [
+            0.3096106557377049
+        ],
+        [
+            0.3296106557377049
+        ],
+        [
+            0.31084016393442626
+        ],
+        [
+            0.3024180327868853
+        ],
+        [
+            0.3014549180327869
+        ],
+        [
+            0.3014549180327869
+        ],
+        [
+            0.3005327868852459
+        ],
+        [
+            0.3005327868852459
+        ],
+        [
+            0.2952254098360656
+        ],
+        [
+            0.28616803278688524
+        ],
+        [
+            0.29961065573770496
+        ],
+        [
+            0.31432377049180327
+        ],
+        [
+            0.2952459016393443
+        ],
+        [
+            0.29581967213114757
+        ],
+        [
+            0.29649590163934425
+        ],
+        [
+            0.2880327868852459
+        ],
+        [
+            0.3023770491803278
+        ],
+        [
+            0.31143442622950823
+        ],
+        [
+            0.29053278688524586
+        ],
+        [
+            0.29053278688524586
+        ],
+        [
+            0.29053278688524586
+        ],
+        [
+            0.29053278688524586
+        ],
+        [
+            0.29053278688524586
+        ],
+        [
+            0.29366803278688525
+        ],
+        [
+            0.3064549180327869
+        ],
+        [
+            0.2830327868852459
+        ],
+        [
+            0.28961065573770495
+        ],
+        [
+            0.2820901639344262
+        ],
+        [
+            0.27647540983606556
+        ],
+        [
+            0.2789754098360656
+        ],
+        [
+            0.2830327868852459
+        ],
+        [
+            0.29801229508196725
+        ],
+        [
+            0.3117827868852459
+        ],
+        [
+            0.3117827868852459
+        ],
+        [
+            0.3117827868852459
+        ],
+        [
+            0.31114754098360653
+        ],
+        [
+            0.30584016393442626
+        ],
+        [
+            0.3033401639344262
+        ],
+        [
+            0.3193032786885246
+        ],
+        [
+            0.2973975409836066
+        ],
+        [
+            0.29770491803278687
+        ],
+        [
+            0.3021106557377049
+        ],
+        [
+            0.29770491803278687
+        ],
+        [
+            0.29989754098360655
+        ],
+        [
+            0.29737704918032787
+        ],
+        [
+            0.31862704918032786
+        ],
+        [
+            0.3136475409836066
+        ],
+        [
+            0.3136475409836066
+        ],
+        [
+            0.3136475409836066
+        ],
+        [
+            0.3136475409836066
+        ],
+        [
+            0.3117827868852459
+        ],
+        [
+            0.3042827868852459
+        ],
+        [
+            0.3301844262295082
+        ],
+        [
+            0.3511885245901639
+        ],
+        [
+            0.3524385245901639
+        ],
+        [
+            0.3511885245901639
+        ],
+        [
+            0.3511885245901639
+        ],
+        [
+            0.3511885245901639
+        ],
+        [
+            0.35493852459016395
+        ],
+        [
+            0.36926229508196723
+        ],
+        [
+            0.3352049180327869
+        ],
+        [
+            0.3352049180327869
+        ],
+        [
+            0.3352049180327869
+        ],
+        [
+            0.33928278688524593
+        ],
+        [
+            0.34051229508196723
+        ],
+        [
+            0.35209016393442627
+        ],
+        [
+            0.3649180327868853
+        ]
+    ],
+    "classifiers": [
+        "Binary Logistic Regression Classifier (\u03bb=0, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0, Z-normalization, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, Z-normalization, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, Z-normalization, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-normalization, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, Z-normalization, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, Z-normalization, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, Z-normalization, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0, 9-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, 9-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, 9-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 9-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, 9-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, 9-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, 9-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0, Z-normalization, 9-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, Z-normalization, 9-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, Z-normalization, 9-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-normalization, 9-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, Z-normalization, 9-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, Z-normalization, 9-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, Z-normalization, 9-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0, 8-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, 8-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, 8-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 8-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, 8-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, 8-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, 8-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0, Z-normalization, 8-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, Z-normalization, 8-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, Z-normalization, 8-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-normalization, 8-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, Z-normalization, 8-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, Z-normalization, 8-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, Z-normalization, 8-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0, 7-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, 7-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, 7-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 7-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, 7-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, 7-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, 7-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0, Z-normalization, 7-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, Z-normalization, 7-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, Z-normalization, 7-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-normalization, 7-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, Z-normalization, 7-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, Z-normalization, 7-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, Z-normalization, 7-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0, 6-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, 6-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, 6-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, 6-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, 6-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, 6-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0, Z-normalization, 6-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, Z-normalization, 6-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, Z-normalization, 6-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-normalization, 6-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, Z-normalization, 6-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, Z-normalization, 6-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, Z-normalization, 6-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0, 5-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, 5-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, 5-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 5-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, 5-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, 5-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, 5-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0, Z-normalization, 5-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, Z-normalization, 5-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, Z-normalization, 5-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-normalization, 5-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, Z-normalization, 5-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, Z-normalization, 5-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, Z-normalization, 5-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0, 4-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, 4-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, 4-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 4-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, 4-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, 4-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, 4-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0, Z-normalization, 4-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, Z-normalization, 4-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, Z-normalization, 4-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-normalization, 4-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, Z-normalization, 4-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, Z-normalization, 4-PCA, 2D feature exp.)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, Z-normalization, 4-PCA, 2D feature exp.)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

@@ -1,0 +1,293 @@
+{
+    "models_min_DCFs": [
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.47899590163934425
+        ],
+        [
+            0.48149590163934425
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.4777459016393443
+        ],
+        [
+            0.48149590163934425
+        ],
+        [
+            0.4821311475409836
+        ],
+        [
+            0.5023565573770492
+        ],
+        [
+            0.4877459016393443
+        ],
+        [
+            0.4877459016393443
+        ],
+        [
+            0.4877459016393443
+        ],
+        [
+            0.4877459016393443
+        ],
+        [
+            0.4877459016393443
+        ],
+        [
+            0.4877459016393443
+        ],
+        [
+            0.4852459016393443
+        ],
+        [
+            0.48084016393442625
+        ],
+        [
+            0.48084016393442625
+        ],
+        [
+            0.48084016393442625
+        ],
+        [
+            0.48084016393442625
+        ],
+        [
+            0.48147540983606557
+        ],
+        [
+            0.4886885245901639
+        ],
+        [
+            0.5108606557377049
+        ],
+        [
+            0.4802254098360656
+        ],
+        [
+            0.4802254098360656
+        ],
+        [
+            0.4802254098360656
+        ],
+        [
+            0.4802254098360656
+        ],
+        [
+            0.4802254098360656
+        ],
+        [
+            0.4802254098360656
+        ],
+        [
+            0.4771106557377049
+        ],
+        [
+            0.4696311475409836
+        ],
+        [
+            0.4696311475409836
+        ],
+        [
+            0.4696311475409836
+        ],
+        [
+            0.4696311475409836
+        ],
+        [
+            0.4696311475409836
+        ],
+        [
+            0.473688524590164
+        ],
+        [
+            0.5039754098360656
+        ],
+        [
+            0.4674180327868852
+        ],
+        [
+            0.4674180327868852
+        ],
+        [
+            0.4674180327868852
+        ],
+        [
+            0.4674180327868852
+        ],
+        [
+            0.4674180327868852
+        ],
+        [
+            0.46491803278688526
+        ],
+        [
+            0.46616803278688523
+        ],
+        [
+            0.483688524590164
+        ],
+        [
+            0.483688524590164
+        ],
+        [
+            0.483688524590164
+        ],
+        [
+            0.483688524590164
+        ],
+        [
+            0.4836475409836065
+        ],
+        [
+            0.4864549180327869
+        ],
+        [
+            0.5086270491803279
+        ],
+        [
+            0.46991803278688526
+        ],
+        [
+            0.46991803278688526
+        ],
+        [
+            0.46991803278688526
+        ],
+        [
+            0.46991803278688526
+        ],
+        [
+            0.46991803278688526
+        ],
+        [
+            0.46991803278688526
+        ],
+        [
+            0.4658606557377049
+        ],
+        [
+            0.5157991803278689
+        ],
+        [
+            0.5157991803278689
+        ],
+        [
+            0.5152254098360656
+        ],
+        [
+            0.5152254098360656
+        ],
+        [
+            0.5127254098360656
+        ],
+        [
+            0.5152254098360656
+        ],
+        [
+            0.5223770491803279
+        ]
+    ],
+    "classifiers": [
+        "Binary Logistic Regression Classifier (\u03bb=0)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1)",
+        "Binary Logistic Regression Classifier (\u03bb=0, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, Z-normalization)",
+        "Binary Logistic Regression Classifier (\u03bb=0, 9-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, 9-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, 9-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 9-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, 9-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, 9-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, 9-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0, Z-normalization, 9-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, Z-normalization, 9-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, Z-normalization, 9-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-normalization, 9-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, Z-normalization, 9-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, Z-normalization, 9-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, Z-normalization, 9-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0, 8-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, 8-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, 8-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 8-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, 8-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, 8-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, 8-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0, Z-normalization, 8-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, Z-normalization, 8-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, Z-normalization, 8-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-normalization, 8-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, Z-normalization, 8-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, Z-normalization, 8-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, Z-normalization, 8-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0, 7-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, 7-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, 7-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 7-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, 7-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, 7-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, 7-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0, Z-normalization, 7-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, Z-normalization, 7-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, Z-normalization, 7-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-normalization, 7-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, Z-normalization, 7-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, Z-normalization, 7-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, Z-normalization, 7-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0, 6-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, 6-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, 6-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, 6-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, 6-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, 6-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0, Z-normalization, 6-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-06, Z-normalization, 6-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=1e-05, Z-normalization, 6-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-normalization, 6-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.001, Z-normalization, 6-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.01, Z-normalization, 6-PCA)",
+        "Binary Logistic Regression Classifier (\u03bb=0.1, Z-normalization, 6-PCA)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "models_min_DCFs": [
+        [
+            0.4861475409836066
+        ],
+        [
+            0.4861475409836066
+        ],
+        [
+            0.4917827868852459
+        ],
+        [
+            0.4852459016393443
+        ],
+        [
+            0.4839754098360656
+        ],
+        [
+            0.4833606557377049
+        ],
+        [
+            0.4896106557377049
+        ]
+    ],
+    "classifiers": [
+        "Tied Covariance Binary Gaussian Classifier",
+        "Tied Covariance Binary Gaussian Classifier (10-PCA)",
+        "Tied Covariance Binary Gaussian Classifier (9-PCA)",
+        "Tied Covariance Binary Gaussian Classifier (8-PCA)",
+        "Tied Covariance Binary Gaussian Classifier (7-PCA)",
+        "Tied Covariance Binary Gaussian Classifier (6-PCA)",
+        "Tied Covariance Binary Gaussian Classifier (5-PCA)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

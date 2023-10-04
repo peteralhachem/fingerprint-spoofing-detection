@@ -1,0 +1,53 @@
+{
+    "models_min_DCFs": [
+        [
+            0.31084016393442626
+        ],
+        [
+            0.4141803278688525
+        ],
+        [
+            0.32047131147540986
+        ],
+        [
+            0.3089344262295082
+        ],
+        [
+            0.30801229508196726
+        ],
+        [
+            0.28834016393442624
+        ],
+        [
+            0.28864754098360657
+        ],
+        [
+            0.2680327868852459
+        ],
+        [
+            0.28116803278688524
+        ],
+        [
+            0.28459016393442627
+        ]
+    ],
+    "classifiers": [
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 9-PCA)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 8-PCA)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 7-PCA)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, 6-PCA)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 9-PCA)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 8-PCA)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 7-PCA)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 6-PCA)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

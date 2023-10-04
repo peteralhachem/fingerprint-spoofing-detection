@@ -1,0 +1,57 @@
+{
+    "models_error_rates": [
+        [
+            0.10967741935483866
+        ],
+        [
+            0.07827956989247309
+        ],
+        [
+            0.05419354838709678
+        ],
+        [
+            0.047741935483870956
+        ]
+    ],
+    "models_actual_DCFs": [
+        [
+            0.36651639344262293
+        ],
+        [
+            0.31241803278688524
+        ],
+        [
+            0.3273360655737705
+        ],
+        [
+            0.5845696721311475
+        ]
+    ],
+    "models_min_DCFs": [
+        [
+            0.3055122950819672
+        ],
+        [
+            0.29053278688524586
+        ],
+        [
+            0.2739754098360656
+        ],
+        [
+            0.2761680327868853
+        ]
+    ],
+    "classifiers": [
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 8-PCA) - class rebalancing (pi_1 = 0.050000)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 8-PCA) - class rebalancing (pi_1 = 0.090909)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 8-PCA) - class rebalancing (pi_1 = 0.200000)",
+        "Poly (d=2, c=1.0) Support Vector Machine Classifier (c=0.01, k=1.0, Z-norm, 8-PCA) - class rebalancing (pi_1 = 0.500000)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

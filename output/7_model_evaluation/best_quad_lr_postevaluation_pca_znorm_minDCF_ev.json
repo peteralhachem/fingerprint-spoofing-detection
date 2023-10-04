@@ -1,0 +1,117 @@
+{
+    "models_error_rates": [
+        [
+            0.05607476635514019
+        ],
+        [
+            0.05880062305295952
+        ],
+        [
+            0.0599688473520249
+        ],
+        [
+            0.05581516095534789
+        ],
+        [
+            0.05321910695742471
+        ],
+        [
+            0.05503634475597097
+        ],
+        [
+            0.058151609553478756
+        ],
+        [
+            0.05828141225337491
+        ],
+        [
+            0.05906022845275183
+        ],
+        [
+            0.06295430944963654
+        ]
+    ],
+    "models_actual_DCFs": [
+        [
+            0.28134049773755654
+        ],
+        [
+            0.28862179487179485
+        ],
+        [
+            0.2762160633484163
+        ],
+        [
+            0.2702262443438914
+        ],
+        [
+            0.2457371794871795
+        ],
+        [
+            0.27506975867269984
+        ],
+        [
+            0.2674453242835596
+        ],
+        [
+            0.2649245852187029
+        ],
+        [
+            0.2644871794871795
+        ],
+        [
+            0.27845588235294116
+        ]
+    ],
+    "models_min_DCFs": [
+        [
+            0.2767477375565611
+        ],
+        [
+            0.2832579185520362
+        ],
+        [
+            0.2691534690799397
+        ],
+        [
+            0.2579769984917044
+        ],
+        [
+            0.23726809954751132
+        ],
+        [
+            0.27360105580693816
+        ],
+        [
+            0.26381975867269986
+        ],
+        [
+            0.25246606334841626
+        ],
+        [
+            0.25838235294117645
+        ],
+        [
+            0.27289404223227753
+        ]
+    ],
+    "classifiers": [
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 9-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 8-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 7-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-norm, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-norm, 9-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-norm, 8-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-norm, 7-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)",
+        "Binary Logistic Regression Classifier (\u03bb=0.0001, Z-norm, 6-PCA, 2D feature exp.) - class rebalancing (pi_1 = 0.200000)"
+    ],
+    "working_points": [
+        [
+            0.5,
+            1.0,
+            10.0
+        ]
+    ]
+}

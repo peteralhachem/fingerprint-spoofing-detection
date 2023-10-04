@@ -62,8 +62,8 @@ Note: scripts have already the computation part commented (just 1 line of code i
 if you want to re-compute the script's result, just decomment the corresponding line
 ## Documents
 
-- [Introduction](https://github.com/MP-MLPR/fingerprint-spoofing-detection/blob/main/FingerprintSpoofingDetection_2023.pdf) - file where you can find a detailed explanayiom about the task in hand, the dataset, an approach on how to solve
-- [final report](https://github.com/MP-MLPR/fingerprint-spoofing-detection/blob/main/302219_293885_final_report.pdf) - A deep analysis of the various techniques used for classification with results associated.
+- [Introduction](https://github.com/peteralhachem/fingerprint-spoofing-detection/blob/main/FingerprintSpoofingDetection_2023.pdf) - file where you can find a detailed explanayiom about the task in hand, the dataset, an approach on how to solve
+- [final report](https://github.com/peteralhachem/fingerprint-spoofing-detection/blob/main/302219_293885_final_report.pdf) - A deep analysis of the various techniques used for classification with results associated.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
